@@ -7,6 +7,7 @@
 </picture>
 
 # Flipper Zero Firmware
+# 0.0.1 Created By: SparksTheFolf
 
 - [Flipper Zero Official Website](https://flipperzero.one). A simple way to explain to your friends what Flipper Zero can do.
 - [Flipper Zero Firmware Update](https://update.flipperzero.one). Improvements for your dolphin: latest firmware releases, upgrade tools for PC and mobile devices.
